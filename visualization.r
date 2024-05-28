@@ -1,4 +1,3 @@
-install.packages("ggplot2")
 # Chargement des bibliothèques nécessaires
 library(ggplot2)
 
